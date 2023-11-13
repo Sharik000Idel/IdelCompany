@@ -513,6 +513,11 @@ ul, ol {
 	color: #ffffff;
 	margin-bottom: 16px;
 }
+.hero-text h2 {
+	font-size: calc( (100vw - 480px)/(1800 - 480) * (62 - 32) + 32px);
+	color: #ffffff;
+	margin-bottom: 16px;
+}
 .hero-text p {
 	font-size: 18px;
 	color: #ffffff;
